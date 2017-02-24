@@ -1,0 +1,21 @@
+.mainContainer{
+	padding: 12px 15px 8px 15px;
+	display: inline-flex;
+	border: 1px solid black;
+}
+#box2{
+	padding-left: 8px;
+	padding-right: 35px;
+	border-right: 1px solid black;
+}
+#box3{
+	padding-left: 35px;
+	padding-right: 8px;
+}
+.tag{
+	font-size: 10px;
+}
+.inputBox{
+	margin-top: 5px;
+	width: 170px;
+}
